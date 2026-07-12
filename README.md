@@ -1,18 +1,18 @@
 # ── Premium GitHub Profile README Design ──
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=A.K.%20Bharadwaj&fontSize=50&fontColor=ffffff&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=AKSHITH%20BHARADWAJ&fontSize=42&fontColor=ffffff&theme=dark" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ak-bharadwaj">
-    <img src="https://img.shields.io/badge/Location-India-blueviolet?style=flat-square&logo=google-maps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Nandyal,%20AP,%20India-blueviolet?style=flat-square&logo=google-maps&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ak-bharadwaj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ak.bharadwaj.github@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-critical?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:dornipaduakshith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dornipaduakshith%40gmail.com-critical?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -26,11 +26,11 @@
 
 ### 🌌 About Me
 
-I am a **Software Engineer** specializing in full-stack engineering, performance optimizations, and AI-driven spatial computing architectures. Passionate about building modular software systems that bridge advanced machine learning models with accessible, responsive user experiences.
+I am a **Computer Science Engineering Student** (Expected Graduation: 2027) focused on building **Intelligent Applications**, combining **AI/ML architectures (Computer Vision, NLP)** with robust **Backend Development**.
 
-- 🚀 **Core Focus**: High-performance Full Stack Architectures & Spatial AI Integration.
-- 💡 **Mindset**: Product engineering driven, optimizing latency and resource scaling constraints.
-- 🤝 **Open To**: Collaborating on open-source packages, spatial OCR tools, and SaaS architectures.
+- 🚀 **Current Focus**: Quantitative Computer Vision modeling, REST API engineering, and lightweight Edge AI deployment.
+- 💡 **Strategy**: Fast, end-to-end prototyping of production workflows from dataset tuning to web serving.
+- ♟️ **Strategics**: District-level Chess Player, bringing structured problem-solving and tactical thinking to system architectures.
 
 ---
 
@@ -38,9 +38,12 @@ I am a **Software Engineer** specializing in full-stack engineering, performance
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,fastapi,postgres,sqlite,mongodb,docker,aws,github,git" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,java,react,html,css,fastapi,git,docker,sqlite,postgres" />
   </a>
 </p>
+
+- **Backend / DB / Deploy**: Flask, Supabase, Firebase, SQL, Go (GeeksforGeeks certified), Vercel.
+- **Machine Learning**: YOLOv8, Scikit-learn, XGBoost, LightGBM, Transfer Learning, PaddleOCR, Ollama.
 
 ---
 
@@ -48,43 +51,52 @@ I am a **Software Engineer** specializing in full-stack engineering, performance
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Computer Vision** | Advanced | Real-time object detection, OCR reading, and custom model integration |
-| **LLM Orchestration** | Intermediate | Local context vector stores, custom RAG pipelines, and agentic workflows |
-| **Embedded Intelligence** | Practical | Running lightweight inference engines locally on edge-node environments |
+| **Computer Vision** | Advanced | YOLOv8 depth estimation, QR code vision, local frame processing, and OCR |
+| **Tabular ML** | Intermediate | Ontological classification systems, XGBoost, and SHAP explainability |
+| **Generative AI** | Practical | Oracle Certified GenAI Professional, chat orchestrations, and LLM completions |
 
 ---
 
 ### 📁 Featured Projects
 
 <details>
-<summary><b>🛠️ sriguru-driving-academy</b></summary>
+<summary><b>🛠️ SmartBoxTrack — AI Logistics Automation (National Top 10 Finalist)</b></summary>
 
-### [sriguru-driving-academy](https://github.com/ak-bharadwaj/sriguru-driving-academy)
-A premium educational academy management platform with automated workflows, optimized asset delivery pipelines, and static caching parameters.
-
-| Parameter | Specification |
-| :--- | :--- |
-| **Stack** | Next.js, React, TailwindCSS, CSS Variables |
-| **Scale** | Fully responsive, production-ready rendering pipeline |
-| **Performance** | Optimized HTTP cache configurations, async workflow dispatching |
-| **Security** | Zero exposed private keys, public scopes isolated |
-| **Impact** | Fast assets loadtimes, automated verification checks |
+### [SmartBoxTrack](https://github.com/ak-bharadwaj/smartbox)
+*Built with: Python | Firebase | React | QR vision*
+- Designed QR-based logistics tracking dashboard that reduces manual verification operations.
+- Engineered role-based access control (RBAC) and automated inventory threshold alert triggers.
+- Ranked in the **Top 10 Finalists** in a national hackathon among 40+ colleges.
 
 </details>
 
 <details>
-<summary><b>👁️ VisionTalk (visionai)</b></summary>
+<summary><b>👁️ VisionTalk — Edge AI Spatial Assistant for the Visually Impaired</b></summary>
 
-### [VisionTalk / visionai](https://github.com/ak-bharadwaj/VisionTalk)
-AI-powered offline spatial assistant for the visually impaired. Integrates real-time camera feeds, spatial voice Q&A, and on-device text OCR.
+### [VisionTalk](https://github.com/ak-bharadwaj/VisionTalk)
+*Built with: Python | YOLOv8 | PaddleOCR | Ollama | CV*
+- Created a fully offline spatial helper detecting real-time objects and obstacle distances.
+- Integrated PaddleOCR text reading with text-to-speech feedback for user navigation.
 
-| Parameter | Specification |
-| :--- | :--- |
-| **Stack** | Python, ONNX Runtime, OpenCV, PyTTS |
-| **Scale** | Fast local CPU inference (approx. 20-30 FPS) |
-| **Performance** | Non-blocking execution loops, multi-threaded frame buffers |
-| **Security** | 100% on-device private offline processing |
-| **Impact** | Accessibility support tool prototype |
+</details>
+
+<details>
+<summary><b>🩺 Diabetes AI — Ontology-Driven Clinical ML Pipeline</b></summary>
+
+### [Diabetes AI](https://github.com/ak-bharadwaj/diabetes-ontology-ml)
+*Built with: LightGBM | XGBoost | Python | Streamlit*
+- Formulated ontology-driven ML pipeline processing 100k+ clinical health records.
+- Achieved **~90-97% classification accuracy** backed by SHAP explainability matrices.
+
+</details>
+
+<details>
+<summary><b>🩸 HematoVision — Deep Transfer Learning Classification</b></summary>
+
+### [HematoVision](https://github.com/ak-bharadwaj/hemato-vision-ai-classify)
+*Built with: Python | Flask | Transfer Learning*
+- Engineered blood cell classification models utilizing transfer learning strategies.
+- Served real-time prediction overlays through a clean Flask API web dashboard.
 
 </details>
 
@@ -92,31 +104,37 @@ AI-powered offline spatial assistant for the visually impaired. Integrates real-
 
 ### 💼 Experience
 
-#### **Software Engineer** · Freelance & Open Source
-*2024 — Present*
-- Developed real-time object recognition pipelines running on cost-effective CPU setups.
-- Built interactive client interfaces using modern Next.js React patterns.
-- Configured automated integration actions for testing build validations.
-- **Skills**: *TypeScript, Python, FastAPI, Next.js, Git, CI/CD*
+#### **Frontend Developer Intern** · Edunet Foundation *(IBM SkillsBuild Association)*
+*2025*
+- Built responsive UI components and web layouts using React and HTML/CSS.
+- Integrated dynamic API endpoints to display real-time metrics feeds.
+
+#### **AI/ML Intern** · SmartBridge
+*2025*
+- Developed, trained, and served CNN-based HematoVision models on Flask backends.
+- Optimized and cataloged training datasets, managing validation check tests.
+
+#### **Web Development Intern** · Micro IT Solutions
+*2025*
+- Designed functional weather dashboards and interactive data showcases using Flask APIs.
 
 ---
 
-### 🏆 Achievements & Recognitions
+### 🏆 Achievements
 
-| Recognition | Details |
-| :--- | :--- |
-| **GitHub Quickdraw** | Resolved issues instantly within critical timeframes |
-| **Pull Shark** | Merged multiple codebase branches to main production tracks |
-| **YOLO** | Completed direct reviews and fast deployments |
+- **Top 10 Finalist** in National Hackathon among 40+ competing engineering colleges.
+- **Qualified for TCS CodeVita Round 2** (competitive programming).
+- **District-level Chess Player** (Strategic pattern solving).
 
 ---
 
 ### 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-11A9E2?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Certified%20GenAI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-Full%20Stack%20Developer-0668E1?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataCamp-Certified%20SQL%20Associate-03EF62?style=flat-square&logo=datacamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-GenAI%20%26%20Go%20Certified-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
 </p>
 
 ---
@@ -126,10 +144,6 @@ AI-powered offline spatial assistant for the visually impaired. Integrates real-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=nord" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-bharadwaj&theme=nord" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-bharadwaj&layout=compact&theme=nord" width="48%" />
 </p>
 
 ---
@@ -145,16 +159,16 @@ AI-powered offline spatial assistant for the visually impaired. Integrates real-
 ### 🎯 Current Focus
 
 ```yaml
-Learning: "Advanced Neural Net Quantization Techniques (ONNX/TensorRT)"
-Building: "Decentralized spatial audio navigation guides"
+Learning: "Advanced Neural Net Quantization Techniques (ONNX / TensorRT)"
+Building: "Decentralized spatial audio navigation systems"
 Exploring: "Serverless FastAPI microservices on edge functions"
-OpenTo: "Accessibility projects, Full Stack roles, and Open Source contributions"
+OpenTo: "Machine Learning, Full-Stack engineering, and Open Source contributions"
 ```
 
 ---
 
 <p align="center">
-  <i>"Simplifying spatial navigation and accessibility through high-performance engineering."</i>
+  <i>"Translating complex algorithmic paradigms into functional spatial computing solutions."</i>
 </p>
 
 <p align="center">
