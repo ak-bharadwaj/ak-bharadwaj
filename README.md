@@ -1,32 +1,32 @@
-
+# ── Premium GitHub Profile README Design ──
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=AKSHITH%20BHARADWAJ&fontSize=42&fontColor=ffffff&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=390099&height=180&section=header&text=AKSHITH%20BHARADWAJ&fontSize=42&fontColor=ffffff&theme=dark" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ak-bharadwaj">
-    <img src="https://img.shields.io/badge/Location-Nandyal,%20AP,%20India-blueviolet?style=flat-square&logo=google-maps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Nandyal,%20AP,%20India-8A2BE2?style=for-the-badge&logo=google-maps&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ak-bharadwaj">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dornipaduakshith@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dornipaduakshith%40gmail.com-critical?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=ak-bharadwaj&color=blueviolet&style=flat-square&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/ak-bharadwaj?label=Followers&style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/github/stars/ak-bharadwaj?style=flat-square&color=blueviolet&label=Total%20Stars" />
+  <img src="https://komarev.com/normal-badge/?username=ak-bharadwaj&color=8A2BE2&style=flat-square&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/ak-bharadwaj?label=Followers&style=flat-square&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/ak-bharadwaj?style=flat-square&color=8A2BE2&label=Total%20Stars" />
 </p>
 
 ---
 
-### 🌌 About Me
+### 🌌 Professional Summary
 
-I am a **Computer Science Engineering Student** (Expected Graduation: 2027) focused on building **Intelligent Applications**, combining **AI/ML architectures (Computer Vision, NLP)** with robust **Backend Development**.
+I am a **Computer Science Engineering Student** (Expected Graduation: 2027) at **Rajeev Gandhi Memorial College of Engineering and Technology** with a **CGPA of 8+**. I specialize in building **Intelligent Applications**, combining **AI/ML architectures (Computer Vision, NLP)** with robust **Backend Development** using modern paradigms.
 
 - 🚀 **Current Focus**: Quantitative Computer Vision modeling, REST API engineering, and lightweight Edge AI deployment.
 - 💡 **Strategy**: Fast, end-to-end prototyping of production workflows from dataset tuning to web serving.
@@ -42,7 +42,7 @@ I am a **Computer Science Engineering Student** (Expected Graduation: 2027) focu
   </a>
 </p>
 
-- **Backend / DB / Deploy**: Flask, Supabase, Firebase, SQL, Go (GeeksforGeeks certified), Vercel.
+- **Backend / DB / Deploy**: Flask, Supabase, Firebase, SQL, Go, Vercel.
 - **Machine Learning**: YOLOv8, Scikit-learn, XGBoost, LightGBM, Transfer Learning, PaddleOCR, Ollama.
 
 ---
@@ -57,48 +57,34 @@ I am a **Computer Science Engineering Student** (Expected Graduation: 2027) focu
 
 ---
 
-### 📁 Featured Projects
+### 📁 Signature Projects
 
-<details>
-<summary><b>🛠️ SmartBoxTrack — AI Logistics Automation (National Top 10 Finalist)</b></summary>
-
-### [SmartBoxTrack](https://github.com/ak-bharadwaj/smartbox)
+#### **SmartBoxTrack — AI Logistics Automation (National Top 10 Finalist)**
 *Built with: Python | Firebase | React | QR vision*
 - Designed QR-based logistics tracking dashboard that reduces manual verification operations.
 - Engineered role-based access control (RBAC) and automated inventory threshold alert triggers.
 - Ranked in the **Top 10 Finalists** in a national hackathon among 40+ colleges.
 
-</details>
+---
 
-<details>
-<summary><b>👁️ VisionTalk — Edge AI Spatial Assistant for the Visually Impaired</b></summary>
-
-### [VisionTalk](https://github.com/ak-bharadwaj/VisionTalk)
+#### **VisionTalk — Edge AI Spatial Assistant for the Visually Impaired**
 *Built with: Python | YOLOv8 | PaddleOCR | Ollama | CV*
 - Created a fully offline spatial helper detecting real-time objects and obstacle distances.
 - Integrated PaddleOCR text reading with text-to-speech feedback for user navigation.
 
-</details>
+---
 
-<details>
-<summary><b>🩺 Diabetes AI — Ontology-Driven Clinical ML Pipeline</b></summary>
-
-### [Diabetes AI](https://github.com/ak-bharadwaj/diabetes-ontology-ml)
+#### **Diabetes AI — Ontology-Driven Clinical ML Pipeline**
 *Built with: LightGBM | XGBoost | Python | Streamlit*
 - Formulated ontology-driven ML pipeline processing 100k+ clinical health records.
 - Achieved **~90-97% classification accuracy** backed by SHAP explainability matrices.
 
-</details>
+---
 
-<details>
-<summary><b>🩸 HematoVision — Deep Transfer Learning Classification</b></summary>
-
-### [HematoVision](https://github.com/ak-bharadwaj/hemato-vision-ai-classify)
+#### **HematoVision — Deep Transfer Learning Classification**
 *Built with: Python | Flask | Transfer Learning*
 - Engineered blood cell classification models utilizing transfer learning strategies.
 - Served real-time prediction overlays through a clean Flask API web dashboard.
-
-</details>
 
 ---
 
@@ -131,10 +117,10 @@ I am a **Computer Science Engineering Student** (Expected Graduation: 2027) focu
 ### 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Certified%20GenAI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta-Full%20Stack%20Developer-0668E1?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataCamp-Certified%20SQL%20Associate-03EF62?style=flat-square&logo=datacamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-GenAI%20%26%20Go%20Certified-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Certified%20GenAI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-Full%20Stack%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataCamp-Certified%20SQL%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-GenAI%20%26%20Go%20Certified-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
 ---
@@ -172,5 +158,5 @@ OpenTo: "Machine Learning, Full-Stack engineering, and Open Source contributions
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=390099&height=100&section=footer&theme=dark" />
 </p>
