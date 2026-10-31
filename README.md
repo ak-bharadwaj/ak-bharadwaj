@@ -1,24 +1,24 @@
 <div align="center">
 
-[![Name SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&duration=4000&pause=2500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=·KSHITH+BH·R·DW·J;SOFTW·RE+ENGINEER;SYSTEMS+·RCHITECT)](https://github.com/ak-bharadwaj)
+[![Name SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&duration=4000&pause=2500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=AKSHITH+BHARADWAJ;SOFTWARE+ENGINEER;SYSTEMS+ARCHITECT)](https://github.com/ak-bharadwaj)
 
 <sub>Nandyal, India · Final-Year CSE · RGMCET</sub>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58·6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+·I+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+IEEE+paper+in+preparation+%E2%80%94+disaster+response+systems;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58·6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+IEEE+paper+in+preparation+%E2%80%94+disaster+response+systems;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
 
 <br>
 
 <a href="https://linkedin.com/in/akshith-bharadwaj"><img src="https://img.shields.io/badge/LinkedIn-0·66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/u/akshith_bhadadwaj/"><img src="https://img.shields.io/badge/LeetCode-FF·116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="mailto:dornipaduakshith@gmail.com"><img src="https://img.shields.io/badge/Gmail-E·4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/u/akshith_bhadadwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="mailto:dornipaduakshith@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://sriguru-driving-academy.vercel.app/"><img src="https://img.shields.io/badge/Live_SaaS_↗-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br>
 
 ![Status](https://img.shields.io/badge/Status-Building_Production_Systems-58a6ff?style=flat-square)&nbsp;
-![Focus](https://img.shields.io/badge/Focus-Multi--·gent_Systems_%7C_Governance-161b22?style=flat-square)&nbsp;
+![Focus](https://img.shields.io/badge/Focus-Multi--Agent_Systems_%7C_Governance-161b22?style=flat-square)&nbsp;
 ![Open To](https://img.shields.io/badge/Open_To-SDE_Roles_%26_Research-238636?style=flat-square)
 
 </div>
@@ -27,11 +27,11 @@
 
 ## `> whoami`
 
-Final-year CS undergrad at **RGMCET** (CGP· **8.2** · SSC **10.0 GP·**) who ships production systems.
+Final-year CS undergrad at **RGMCET** (CGPA **8.2** · SSC **10.0 GPA**) who ships production systems.
 
-I've deployed a **live SaaS platform** powering a real business, designed an **Execution Governance Layer** for multi-hazard disaster response *(IEEE paper in preparation)*, and architected a **deterministic state-machine runtime** controlling ·I coding agents with **400 automated tests**.
+I've deployed a **live SaaS platform** powering a real business, designed an **Execution Governance Layer** for multi-hazard disaster response *(IEEE paper in preparation)*, and architected a **deterministic state-machine runtime** controlling AI coding agents with **400 automated tests**.
 
-I think in **state machines**, governance gates, and append-only audit trails — systems that don't break at 3 ·M.
+I think in **state machines**, governance gates, and append-only audit trails — systems that don't break at 3 AM.
 
 > 🏆 **LPDG × RGM Innovation Winner** · 🥈 **2nd / 600+ at GDG Hackathon** · 🌐 **TCS CodeVita Global Rank 5360** · 🥇 **1st Place IIC EXPO**
 
@@ -43,10 +43,10 @@ I think in **state machines**, governance gates, and append-only audit trails �
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 ·MIS-RU
+### 🔴 AMIS-RU
 **Multi-Hazard Disaster Response System**
 
-`Next.js` `Multi-·gent Systems` `Bayesian Models`
+`Next.js` `Multi-Agent Systems` `Bayesian Models`
 
 Designed an **Execution Governance Layer** — a regret-based decision gate that determines whether dispatch actions execute, wait, or escalate to a human commander. Built with an append-only, checksum-verified audit trail.
 
@@ -54,19 +54,19 @@ Designed an **Execution Governance Layer** — a regret-based decision gate that
 > 📉 Reduced responder stall events by **82–86%**
 > 📄 **Paper in preparation for IEEE**
 
-[![Repo](https://img.shields.io/badge/→_View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/ak-bharadwaj/sentinel-·MIS_RU)
+[![Repo](https://img.shields.io/badge/→_View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/ak-bharadwaj/sentinel-AMIS_RU)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ SClass EOS
-**Deterministic Control Plane for ·I Coding ·gents**
+**Deterministic Control Plane for AI Coding Agents**
 
 `Python` `Finite-State Machines` `MCP`
 
 State-machine runtime that classifies each task into one of **10 workflow profiles** and spawns **0–5 subagents** by domain. Includes a diff auditor that flags scope creep, weakened tests, and leaked secrets.
 
-> 🔌 Hooks for **7 ·I coding tools**
+> 🔌 Hooks for **7 AI coding tools**
 > 🧪 **400** automated tests
 > 🛡️ Full scope-creep detection pipeline
 
@@ -77,7 +77,7 @@ State-machine runtime that classifies each task into one of **10 workflow profil
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Sri Guru Driving ·cademy
+### 🚗 Sri Guru Driving Academy
 **Production SaaS — Live & Serving Users**
 
 `Next.js` `Prisma` `Neon` `PostgreSQL`
@@ -85,7 +85,7 @@ State-machine runtime that classifies each task into one of **10 workflow profil
 **Four-portal SaaS platform** built end-to-end as a freelance engagement. 47-topic driving curriculum, RTO mock-test engine with scoring, and UPI-integrated lead capture system.
 
 > 🟢 **Live in production** — actively used by the business
-> 👤 Multi-portal: ·dmin, Student, Instructor, Public
+> 👤 Multi-portal: Admin, Student, Instructor, Public
 
 [![Live](https://img.shields.io/badge/→_Live_Site-000?style=for-the-badge&logo=vercel)](https://sriguru-driving-academy.vercel.app/)&nbsp;[![Code](https://img.shields.io/badge/→_Source-161b22?style=for-the-badge&logo=github)](https://github.com/ak-bharadwaj/sriguru-driving-academy)
 
@@ -100,7 +100,7 @@ State-machine runtime that classifies each task into one of **10 workflow profil
 Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC / platelet microscopy images. Real-time inference served via Flask web interface.
 
 > 🎯 **MobileNetV2** transfer learning
-> 🔬 Built during **SmartBridge ·I/ML Internship**
+> 🔬 Built during **SmartBridge AI/ML Internship**
 > 🌐 Web-based real-time prediction
 
 [![Repo](https://img.shields.io/badge/→_View_Project-161b22?style=for-the-badge&logo=github)](https://github.com/ak-bharadwaj/hemato-vision-ai-classify)
@@ -116,12 +116,12 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:-----|
 | **Concurrence 2K26** | Hackathon registration platform — **400+ participants**, UPI QR routing | `Next.js` `Supabase` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/concurrence2k26) |
-| **CSE Dept ERP** | Six-tier RB·C academic management system, 73 E2E tests | `React` `TypeScript` `PostgreSQL` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/cse-dept-erp) |
-| **Scoreboard Sports** | Real-time tournament broadcasting — JNTU· inter-college meets | `Next.js` `WebSockets` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/scoreboard-sports) |
-| **Fraud Spike Detector** | ·nomaly detection pipeline for transaction monitoring | `Python` `scikit-learn` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/fraud-spike-detector) |
-| **LPDG Challenge** | Winner entry — LPDG × RGM Innovation Challenge | `Next.js` `·I` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/lpdg-challenge) |
+| **CSE Dept ERP** | Six-tier RBAC academic management system, 73 E2E tests | `React` `TypeScript` `PostgreSQL` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/cse-dept-erp) |
+| **Scoreboard Sports** | Real-time tournament broadcasting — JNTUA inter-college meets | `Next.js` `WebSockets` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/scoreboard-sports) |
+| **Fraud Spike Detector** | Anomaly detection pipeline for transaction monitoring | `Python` `scikit-learn` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/fraud-spike-detector) |
+| **LPDG Challenge** | Winner entry — LPDG × RGM Innovation Challenge | `Next.js` `AI` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/lpdg-challenge) |
 | **HouseHunt** | Full-stack real estate platform with search & listings | `React` `Node.js` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/househunt) |
-| **Grain Vision** | ·gritech computer vision grain quality classifier | `TensorFlow` `Flask` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/grain-vision-ai-predict) |
+| **Grain Vision** | Agritech computer vision grain quality classifier | `TensorFlow` `Flask` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/grain-vision-ai-predict) |
 | **ScrollSense** | Scroll interaction analytics and engagement tracking | `JavaScript` | [![](https://img.shields.io/badge/→-161b22?style=flat-square&logo=github)](https://github.com/ak-bharadwaj/scrollsense) |
 
 </details>
@@ -134,7 +134,7 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 ```
                     ╭──────────────────────────────────────────╮
-                    │          TECHNOLOGY ST·CK                 │
+                    │          TECHNOLOGY STACK                 │
                     ╰──────────────────────────────────────────╯
 ```
 
@@ -161,8 +161,8 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <br><sub><b>React</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST ·PI" width="48" height="48" />
-<br><sub><b>REST ·PI</b></sub>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+<br><sub><b>REST API</b></sub>
 </td>
 </tr>
 <tr>
@@ -183,8 +183,8 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <br><sub><b>Next.js</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fast·PI" width="48" height="48" />
-<br><sub><b>Fast·PI</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
+<br><sub><b>FastAPI</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
@@ -233,9 +233,9 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <td width="50%" valign="top">
 
 ### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
-**Universal MCP Gateway for ·I ·gents** `764 ⭐`
+**Universal MCP Gateway for AI Agents** `764 ⭐`
 
-·uthored **PlentyONE / plentymarkets e-commerce ERP adapter** with 8 financial and catalog tools, full schema validation, and test suite.
+Authored **PlentyONE / plentymarkets e-commerce ERP adapter** with 8 financial and catalog tools, full schema validation, and test suite.
 
 `TypeScript` `Model Context Protocol` `LOGIN_TOKEN`
 
@@ -245,13 +245,13 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <td width="50%" valign="top">
 
 ### 💳 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
-**Universal MCP Gateway for ·I ·gents** `764 ⭐`
+**Universal MCP Gateway for AI Agents** `764 ⭐`
 
-·uthored **SumUp Payments MCP ·dapter** exposing 6 financial checkout, transaction, and payout tools with schema validation.
+Authored **SumUp Payments MCP Adapter** exposing 6 financial checkout, transaction, and payout tools with schema validation.
 
-`TypeScript` `FinTech ·PI` `REST`
+`TypeScript` `FinTech API` `REST`
 
-[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![CL·](https://img.shields.io/badge/CL·-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
+[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
 
 </td>
 </tr>
@@ -259,7 +259,7 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <td width="50%" valign="top">
 
 ### 🛠️ [pachara-n / skills-lint](https://github.com/pachara-n/skills-lint)
-**·gentic Workflow & Skills Linter** `·ctive Tooling`
+**Agentic Workflow & Skills Linter** `Active Tooling`
 
 Resolved relative path resolution bug in CLI parser and authored end-to-end vitest integration coverage.
 
@@ -275,7 +275,7 @@ Resolved relative path resolution bug in CLI parser and authored end-to-end vite
 
 Engineered Model Context Protocol (MCP) client configuration specifications covering VS Code, Windsurf, Cline, and Zed.
 
-`MCP Spec` `·I Tooling` `Bilingual Specs`
+`MCP Spec` `AI Tooling` `Bilingual Specs`
 
 [![PR #42](https://img.shields.io/badge/PR_%2342-In_Review-238636?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
 
@@ -288,7 +288,7 @@ Engineered Model Context Protocol (MCP) client configuration specifications cove
 ```
  2026   🏆  Winner — LPDG × RGM Innovation Challenge → internship with LPDG Germany
  2026   🥈  2nd / 600+ — Hack2Skill × Google Developer Groups Hackathon
- 2026   🏗️  Built Concurrence 2K26 (400+ registrations) & JNTU· Sports Scoreboard
+ 2026   🏗️  Built Concurrence 2K26 (400+ registrations) & JNTUA Sports Scoreboard
  2026   🥇  1st Place — IIC Day Celebration EXPO at RGMCET
  2025   🌐  TCS CodeVita Season 13 — Global Rank 5360 · Round 2 qualifier
 ```
@@ -298,8 +298,8 @@ Engineered Model Context Protocol (MCP) client configuration specifications cove
 <div align="center">
 
 ![Meta](https://img.shields.io/badge/Meta_Full_Stack_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle_Gen·I_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![DataCamp](https://img.shields.io/badge/DataCamp_SQL_·ssociate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![DataCamp](https://img.shields.io/badge/DataCamp_SQL_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)
 
 <br><br>
 
@@ -310,11 +310,11 @@ Engineered Model Context Protocol (MCP) client configuration specifications cove
 <a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="60" alt="Galaxy Brain" title="Galaxy Brain" /></a>
 
 <br>
-<sub><b>GitHub ·chievements:</b> Pull Shark (16 Merged PRs) · YOLO · Quickdraw · Pair Extraordinaire · Galaxy Brain</sub>
+<sub><b>GitHub Achievements:</b> Pull Shark (16 Merged PRs) · YOLO · Quickdraw · Pair Extraordinaire · Galaxy Brain</sub>
 
 </div>
 
-> **B.Tech CSE** @ RGMCET (Expected May 2027) · CGP· **8.2**/10 · Intermediate **90%** · SSC **10.0 GP·**
+> **B.Tech CSE** @ RGMCET (Expected May 2027) · CGPA **8.2**/10 · Intermediate **90%** · SSC **10.0 GPA**
 
 ---
 
