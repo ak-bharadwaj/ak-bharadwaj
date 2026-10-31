@@ -263,19 +263,33 @@ Expanded Model Context Protocol (MCP) server configuration specifications for VS
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
 **Universal MCP Gateway for AI Agents** `764 ⭐`
 
-Contributed pre-built **SumUp Payments MCP Adapter** exposing 6 financial tools with schema validation, catalog generation, and automated checks.
+Authored **PlentyONE / plentymarkets e-commerce ERP adapter** with 8 financial and catalog tools, full schema validation, and test suite.
 
-`TypeScript` `Model Context Protocol` `REST`
+`TypeScript` `Model Context Protocol` `LOGIN_TOKEN`
 
-[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
+[![PR #1368](https://img.shields.io/badge/PR_%231368-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1368) [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions)](https://github.com/HelpCode-ai/anythingmcp/pull/1368)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 💳 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
+**Universal MCP Gateway for AI Agents** `764 ⭐`
+
+Authored **SumUp Payments MCP Adapter** exposing 6 financial checkout, transaction, and payout tools with schema validation.
+
+`TypeScript` `FinTech API` `REST`
+
+[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛠️ [pachara-n / skills-lint](https://github.com/pachara-n/skills-lint)
 **Agentic Workflow & Skills Linter** `Active Tooling`
@@ -287,7 +301,7 @@ Resolved relative path resolution bug in CLI parser and authored end-to-end vite
 [![PR #29](https://img.shields.io/badge/PR_%2329-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/29)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔍 [Douglas-Strey / repolens-cli](https://github.com/Douglas-Strey/repolens-cli)
 **CLI & MCP Knowledge Extraction Engine**
