@@ -239,7 +239,7 @@ Resolved core MCP action registration crash on JSON Schema type arrays (`["strin
 
 `Python` `Model Context Protocol` `Pydantic` `AsyncIO`
 
-[![PR #6279](https://img.shields.io/badge/PR_%236279-In_Review-238636?style=flat-square&logo=github)](https://github.com/browser-use/browser-use/pull/6279) [![CI](https://img.shields.io/badge/CI-Running-blue?style=flat-square&logo=githubactions)](https://github.com/browser-use/browser-use/pull/6279)
+[![PR #6279](https://img.shields.io/badge/PR_%236279-In_Review-238636?style=flat-square&logo=github)](https://github.com/browser-use/browser-use/pull/6279) [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions)](https://github.com/browser-use/browser-use/pull/6279)
 
 </td>
 <td width="50%" valign="top">
