@@ -259,26 +259,12 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 ---
 
-## `> contributions`
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<br>
 
 **I don't collect badges. I ship systems.**
 
-<sub>Made with focus, caffeine, and the belief that code should work in production, not just in demos.</sub>
+<sub>Built with intention, not templates.</sub>
 
 </div>
