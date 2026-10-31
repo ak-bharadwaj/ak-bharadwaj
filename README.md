@@ -1,161 +1,148 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=390099&height=180&section=header&text=AKSHITH%20BHARADWAJ&fontSize=42&fontColor=ffffff&theme=dark" />
-</p>
+```
+ █████╗ ██╗  ██╗███████╗██╗  ██╗██╗████████╗██╗  ██╗
+██╔══██╗██║ ██╔╝██╔════╝██║  ██║██║╚══██╔══╝██║  ██║
+███████║█████╔╝ ███████╗███████║██║   ██║   ███████║
+██╔══██║██╔═██╗ ╚════██║██╔══██║██║   ██║   ██╔══██║
+██║  ██║██║  ██╗███████║██║  ██║██║   ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://github.com/ak-bharadwaj">
-    <img src="https://img.shields.io/badge/Location-Nandyal,%20AP,%20India-8A2BE2?style=for-the-badge&logo=google-maps&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ak-bharadwaj">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dornipaduakshith@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Software Engineer** · Systems Thinker · Builder of Things That Ship
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=ak-bharadwaj&color=8A2BE2&style=flat-square&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/ak-bharadwaj?label=Followers&style=flat-square&color=8A2BE2" />
-  <img src="https://img.shields.io/github/stars/ak-bharadwaj?style=flat-square&color=8A2BE2&label=Total%20Stars" />
-</p>
+`Nandyal, India` · [`LinkedIn`](https://linkedin.com/in/akshith-bharadwaj) · [`LeetCode`](https://leetcode.com/u/akshith_bhadadwaj/) · [`Email`](mailto:dornipaduakshith@gmail.com)
+
+</div>
 
 ---
 
-### 🌌 Professional Summary
+### `$ whoami`
 
-I am a **Computer Science Engineering Student** (Expected Graduation: 2027) at **Rajeev Gandhi Memorial College of Engineering and Technology** with a **CGPA of 8+**. I specialize in building **Intelligent Applications**, combining **AI/ML architectures (Computer Vision, NLP)** with robust **Backend Development** using modern paradigms.
+I'm a final-year CS undergrad who builds **production systems**, not tutorials.
 
-- 🚀 **Current Focus**: Quantitative Computer Vision modeling, REST API engineering, and lightweight Edge AI deployment.
-- 💡 **Strategy**: Fast, end-to-end prototyping of production workflows from dataset tuning to web serving.
-- ♟️ **Strategics**: District-level Chess Player, bringing structured problem-solving and tactical thinking to system architectures.
+I've shipped a **live SaaS platform** used by a real business, designed an **execution governance layer** for multi-hazard disaster response (paper headed to IEEE), and built a **deterministic state-machine runtime** that controls AI coding agents. I think in systems — state machines, governance gates, audit trails, and things that don't break at 3 AM.
 
 ---
 
-### 💻 Technical Stack
+### `$ cat /work/flagship`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c,java,react,html,css,fastapi,git,docker,sqlite,postgres" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-- **Backend / DB / Deploy**: Flask, Supabase, Firebase, SQL, Go, Vercel.
-- **Machine Learning**: YOLOv8, Scikit-learn, XGBoost, LightGBM, Transfer Learning, PaddleOCR, Ollama.
+**🔴 AMIS-RU** — *Multi-Hazard Disaster Response*
+<br><sub>Next.js · Multi-Agent Systems · Bayesian Models</sub>
 
----
+Designed an Execution Governance Layer — a regret-based decision gate that determines whether dispatch actions execute, wait, or escalate. Validated across 120 runs in 4 historical scenarios. Reduced responder stall events by **82–86%**.
 
-### 🤖 AI / ML Expertise
+<sub>📄 Paper in preparation for IEEE</sub>
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Computer Vision** | Advanced | YOLOv8 depth estimation, QR code vision, local frame processing, and OCR |
-| **Tabular ML** | Intermediate | Ontological classification systems, XGBoost, and SHAP explainability |
-| **Generative AI** | Practical | Oracle Certified GenAI Professional, chat orchestrations, and LLM completions |
+[`→ Repository`](https://github.com/ak-bharadwaj/sentinel-AMIS_RU)
 
----
+</td>
+<td width="50%">
 
-### 📁 Signature Projects
+**⚡ SClass EOS** — *AI Agent Control Plane*
+<br><sub>Python · Finite-State Machines · MCP</sub>
 
-#### **SmartBoxTrack — AI Logistics Automation (National Top 10 Finalist)**
-*Built with: Python | Firebase | React | QR vision*
-- Designed QR-based logistics tracking dashboard that reduces manual verification operations.
-- Engineered role-based access control (RBAC) and automated inventory threshold alert triggers.
-- Ranked in the **Top 10 Finalists** in a national hackathon among 40+ colleges.
+A deterministic runtime that classifies tasks into 10 workflow profiles and spawns 0–5 subagents by domain. Includes a diff auditor that flags scope creep, weakened tests, and leaked secrets.
 
----
+<sub>🧪 Hooks for 7 AI tools · 400 automated tests</sub>
 
-#### **VisionTalk — Edge AI Spatial Assistant for the Visually Impaired**
-*Built with: Python | YOLOv8 | PaddleOCR | Ollama | CV*
-- Created a fully offline spatial helper detecting real-time objects and obstacle distances.
-- Integrated PaddleOCR text reading with text-to-speech feedback for user navigation.
+[`→ Repository`](https://github.com/ak-bharadwaj/S-class)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-#### **Diabetes AI — Ontology-Driven Clinical ML Pipeline**
-*Built with: LightGBM | XGBoost | Python | Streamlit*
-- Formulated ontology-driven ML pipeline processing 100k+ clinical health records.
-- Achieved **~90-97% classification accuracy** backed by SHAP explainability matrices.
+**🚗 Sri Guru Driving Academy** — *Live SaaS Platform*
+<br><sub>Next.js · Prisma · Neon · PostgreSQL</sub>
 
----
+Four-portal platform actively used by a real business. 47-topic curriculum, RTO mock-test engine, UPI-integrated lead capture. Built end-to-end as a freelance engagement.
 
-#### **HematoVision — Deep Transfer Learning Classification**
-*Built with: Python | Flask | Transfer Learning*
-- Engineered blood cell classification models utilizing transfer learning strategies.
-- Served real-time prediction overlays through a clean Flask API web dashboard.
+<sub>🟢 Live & serving users</sub>
 
----
+[`→ Live Site`](https://sriguru-driving-academy.vercel.app/) · [`→ Code`](https://github.com/ak-bharadwaj/sriguru-driving-academy)
 
-### 💼 Experience
+</td>
+<td width="50%">
 
-#### **Frontend Developer Intern** · Edunet Foundation *(IBM SkillsBuild Association)*
-*2025*
-- Built responsive UI components and web layouts using React and HTML/CSS.
-- Integrated dynamic API endpoints to display real-time metrics feeds.
+**🔬 HematoVision** — *Blood Cell Classifier*
+<br><sub>TensorFlow · MobileNetV2 · Flask</sub>
 
-#### **AI/ML Intern** · SmartBridge
-*2025*
-- Developed, trained, and served CNN-based HematoVision models on Flask backends.
-- Optimized and cataloged training datasets, managing validation check tests.
+Transfer-learning microscopy classifier reaching ~90% validation accuracy on WBC / RBC / platelet images. Served via Flask web interface with real-time inference.
 
-#### **Web Development Intern** · Micro IT Solutions
-*2025*
-- Designed functional weather dashboards and interactive data showcases using Flask APIs.
+<sub>Built during SmartBridge AI/ML Internship</sub>
 
----
+[`→ Repository`](https://github.com/ak-bharadwaj/hemato-vision-ai-classify)
 
-### 🏆 Achievements
+</td>
+</tr>
+</table>
 
-- **Top 10 Finalist** in National Hackathon among 40+ competing engineering colleges.
-- **Qualified for TCS CodeVita Round 2** (competitive programming).
-- **District-level Chess Player** (Strategic pattern solving).
+<details>
+<summary><b>More projects →</b></summary>
+<br>
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [**Concurrence 2K26**](https://github.com/ak-bharadwaj/concurrence2k26) | Hackathon registration platform — 400+ participants | Next.js · Supabase · UPI QR |
+| [**CSE Dept ERP**](https://github.com/ak-bharadwaj/cse-dept-erp) | Six-tier RBAC academic management system | React · TypeScript · PostgreSQL |
+| [**Scoreboard Sports**](https://github.com/ak-bharadwaj/scoreboard-sports) | Real-time tournament broadcasting for JNTUA inter-college meets | Next.js · WebSockets |
+| [**Fraud Spike Detector**](https://github.com/ak-bharadwaj/fraud-spike-detector) | Anomaly detection pipeline for transaction monitoring | Python · scikit-learn |
+| [**HouseHunt**](https://github.com/ak-bharadwaj/househunt) | Full-stack real estate platform with search & listing | React · Node.js |
+| [**Grain Vision**](https://github.com/ak-bharadwaj/grain-vision-ai-predict) | Agritech computer vision grain classifier | TensorFlow · Flask |
+
+</details>
 
 ---
 
-### 🎓 Certifications
+### `$ cat /etc/stack`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Certified%20GenAI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta-Full%20Stack%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataCamp-Certified%20SQL%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-GenAI%20%26%20Go%20Certified-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=nord" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-bharadwaj&theme=nord" width="48%" />
-</p>
-
----
-
-### 🐍 Contribution History
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-### 🎯 Current Focus
-
-```yaml
-Learning: "Advanced Neural Net Quantization Techniques (ONNX / TensorRT)"
-Building: "Decentralized spatial audio navigation systems"
-Exploring: "Serverless FastAPI microservices on edge functions"
-OpenTo: "Machine Learning, Full-Stack engineering, and Open Source contributions"
+```text
+languages    →  Java · Python · C · SQL
+backend      →  FastAPI · PostgreSQL · Supabase · Neon · REST API
+frontend     →  Next.js · React · TypeScript
+infra        →  Docker · CI/CD · Git · System Design
+ai/ml        →  scikit-learn · TensorFlow · Multi-Agent Systems · FSMs
+tooling      →  Cursor · OpenAI Codex · Google Antigravity
 ```
 
 ---
 
-<p align="center">
-  <i>"Translating complex algorithmic paradigms into functional spatial computing solutions."</i>
-</p>
+### `$ history --highlights`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=390099&height=100&section=footer&theme=dark" />
-</p>
+```
+2026  🏆  Winner — LPDG × RGM Innovation Challenge (selected for internship with LPDG Germany)
+2026  🥈  2nd Place — Hack2Skill × GDG Vibe-Coding Hackathon (among 600+ participants)
+2026  🏗️  Built Concurrence 2K26 platform (400+ registrations) & JNTUA Sports Scoreboard
+2026  🥇  1st Place — IIC Day Celebration EXPO at RGMCET
+2025  🌐  TCS CodeVita Season 13 — Global Rank 5360, Round 2 qualifier
+```
+
+---
+
+### `$ cat /credentials`
+
+```
+✓  Meta Full Stack Developer                    Coursera
+✓  Oracle Certified Generative AI Professional  Oracle
+✓  Certified SQL Associate                      DataCamp
+```
+
+**Education** — B.Tech CSE @ RGMCET (Expected May 2027) · CGPA 8.2 · Intermediate 90% · SSC 10.0
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ak-bharadwaj&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+<br>
+
+<sub>I don't collect badges. I ship systems.</sub>
+
+</div>
