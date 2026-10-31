@@ -128,6 +128,39 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 ---
 
+## `> cat /opensource/contributions`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 skills-lint
+**AI Agent Skills Linter CLI & GitHub Action**
+
+`TypeScript` `CLI` `Vitest` `Node.js`
+
+Contributed bug fix and test suite for explicit relative path resolution (`skills-lint .` inside agent skills folders) and root deduplication.
+
+[![PR](https://img.shields.io/badge/PR_#29-Open_Source_Contribution-238636?style=for-the-badge&logo=github)](https://github.com/pachara-n/skills-lint/pull/29)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 repolens-cli
+**Repository Intelligence & MCP Server**
+
+`TypeScript` `Model Context Protocol` `CLI`
+
+Expanded Model Context Protocol (MCP) server configuration specifications for VS Code (Copilot), Windsurf, Cline, and Zed across English and Portuguese docs.
+
+[![PR](https://img.shields.io/badge/PR_#42-Open_Source_Contribution-238636?style=for-the-badge&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## `> cat /etc/stack`
 
 <div align="center">
@@ -237,9 +270,20 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 <div align="center">
 
-![Meta](https://img.shields.io/badge/Meta_Full_Stack_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Full_Stack_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![DataCamp](https://img.shields.io/badge/DataCamp_SQL_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)
+
+<br><br>
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark (Bronze)" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" title="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="60" title="Quickdraw" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7117e3f2832e.png" width="60" title="Pair Extraordinaire" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/galaxy-brain-default-e685f67cf6dc.png" width="60" title="Galaxy Brain" />
+
+<br>
+<sub><b>GitHub Achievements:</b> Pull Shark (16 Merged PRs) · YOLO · Quickdraw · Pair Extraordinaire · Galaxy Brain</sub>
 
 </div>
 
