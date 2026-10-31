@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:161b22,100:58a6ff&height=200&section=header&animation=twinkling" width="100%"/>
+[![Name SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&duration=4000&pause=2500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=AKSHITH+BHARADWAJ;SOFTWARE+ENGINEER;SYSTEMS+ARCHITECT)](https://github.com/ak-bharadwaj)
+
+<sub>Nandyal, India · Final-Year CSE · RGMCET</sub>
 
 <br>
 
-[![Name SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=AKSHITH+BHARADWAJ;SOFTWARE+ENGINEER;SYSTEMS+ARCHITECT)](https://github.com/ak-bharadwaj)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users.;Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events.;Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests.;IEEE+paper+in+preparation+%E2%80%94+multi-hazard+disaster+response.;State+machines+%E2%86%92+Governance+gates+%E2%86%92+Audit+trails+%E2%86%92+Ship+it.;2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner.;TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier.)](https://github.com/ak-bharadwaj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+IEEE+paper+in+preparation+%E2%80%94+disaster+response+systems;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
 
 <br>
 
