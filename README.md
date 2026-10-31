@@ -17,9 +17,9 @@
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=ak-bharadwaj&color=58a6ff&style=flat-square&label=Profile+Views)&nbsp;
-![Followers](https://img.shields.io/github/followers/ak-bharadwaj?style=flat-square&color=58a6ff&labelColor=0d1117)&nbsp;
-![Stars](https://img.shields.io/github/stars/ak-bharadwaj?style=flat-square&color=58a6ff&labelColor=0d1117&affiliations=OWNER)
+![Status](https://img.shields.io/badge/Status-Building_Production_Systems-58a6ff?style=flat-square)&nbsp;
+![Focus](https://img.shields.io/badge/Focus-Multi--Agent_Systems_%7C_Governance-161b22?style=flat-square)&nbsp;
+![Open To](https://img.shields.io/badge/Open_To-SDE_Roles_%26_Research-238636?style=flat-square)
 
 </div>
 
