@@ -6,11 +6,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58·6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+IEEE+paper+in+preparation+%E2%80%94+disaster+response+systems;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+IEEE+paper+in+preparation+%E2%80%94+disaster+response+systems;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
 
 <br>
 
-<a href="https://linkedin.com/in/akshith-bharadwaj"><img src="https://img.shields.io/badge/LinkedIn-0·66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/akshith-bharadwaj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://leetcode.com/u/akshith_bhadadwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
 <a href="mailto:dornipaduakshith@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://sriguru-driving-academy.vercel.app/"><img src="https://img.shields.io/badge/Live_SaaS_↗-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -322,7 +322,7 @@ Engineered Model Context Protocol (MCP) client configuration specifications cove
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58·6FF&fire=58·6FF&currStreakLabel=58·6FF&sideLabels=8B949E&dates=8B949E" height="195" />
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="195" />
 
 </div>
 
