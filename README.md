@@ -256,6 +256,52 @@ Expanded Model Context Protocol (MCP) server configuration specifications for VS
 
 ---
 
+
+---
+
+## `> cat /work/opensource`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
+**Universal MCP Gateway for AI Agents** `764 ⭐`
+
+Contributed pre-built **SumUp Payments MCP Adapter** exposing 6 financial tools with schema validation, catalog generation, and automated checks.
+
+`TypeScript` `Model Context Protocol` `REST`
+
+[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ [pachara-n / skills-lint](https://github.com/pachara-n/skills-lint)
+**Agentic Workflow & Skills Linter** `Active Tooling`
+
+Resolved relative path resolution bug in CLI parser and authored end-to-end vitest integration coverage.
+
+`TypeScript` `Node.js` `Vitest` `CLI`
+
+[![PR #29](https://img.shields.io/badge/PR_%2329-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/29)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 [Douglas-Strey / repolens-cli](https://github.com/Douglas-Strey/repolens-cli)
+**CLI & MCP Knowledge Extraction Engine**
+
+Engineered Model Context Protocol (MCP) client configuration specifications covering VS Code, Windsurf, Cline, and Zed.
+
+`MCP Spec` `AI Tooling` `Bilingual Specs`
+
+[![PR #42](https://img.shields.io/badge/PR_%2342-In_Review-238636?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
+
+</td>
+</tr>
+</table>
+
 ## `> history --highlights`
 
 ```
