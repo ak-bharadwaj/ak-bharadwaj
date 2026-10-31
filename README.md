@@ -128,29 +128,92 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 <div align="center">
 
-**Languages**
+```
+                    ╭──────────────────────────────────────────╮
+                    │          TECHNOLOGY STACK                 │
+                    ╰──────────────────────────────────────────╯
+```
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Infrastructure & AI/ML**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+<br><sub><b>REST API</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
+<br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
+<br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" />
+<br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
+<br><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="48" height="48" />
+<br><sub><b>Prisma</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+<br><sub><b>C</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" />
+<br><sub><b>scikit-learn</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -184,25 +247,29 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile&include_all_commits=true" height="185" />
+<img src="https://github-readme-stats.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile&include_all_commits=true" height="180" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="185" />
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="180" />
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-bharadwaj&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" height="170" />
+---
+
+## `> contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ak-bharadwaj/ak-bharadwaj/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ak-bharadwaj&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
 
