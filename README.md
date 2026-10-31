@@ -232,6 +232,18 @@ Transfer-learning pipeline achieving **~90% validation accuracy** on WBC / RBC /
 <tr>
 <td width="50%" valign="top">
 
+### 🌐 [browser-use / browser-use](https://github.com/browser-use/browser-use)
+**Leading Open-Source Web Agent Framework** `30,000+ ⭐`
+
+Resolved core MCP action registration crash on JSON Schema type arrays (`["string", "null"]`), implementing recursive Python 3.10+ union unpacking and test suite.
+
+`Python` `Model Context Protocol` `Pydantic` `AsyncIO`
+
+[![PR #6279](https://img.shields.io/badge/PR_%236279-In_Review-238636?style=flat-square&logo=github)](https://github.com/browser-use/browser-use/pull/6279) [![CI](https://img.shields.io/badge/CI-Running-blue?style=flat-square&logo=githubactions)](https://github.com/browser-use/browser-use/pull/6279)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
 **Universal MCP Gateway for AI Agents** `764 ⭐`
 
@@ -242,6 +254,8 @@ Authored **PlentyONE / plentymarkets e-commerce ERP adapter** with 8 financial a
 [![PR #1368](https://img.shields.io/badge/PR_%231368-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1368) [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions)](https://github.com/HelpCode-ai/anythingmcp/pull/1368)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💳 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
@@ -254,8 +268,6 @@ Authored **SumUp Payments MCP Adapter** exposing 6 financial checkout, transacti
 [![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛠️ [pachara-n / skills-lint](https://github.com/pachara-n/skills-lint)
@@ -266,18 +278,6 @@ Resolved relative path resolution bug in CLI parser and authored end-to-end vite
 `TypeScript` `Node.js` `Vitest` `CLI`
 
 [![PR #29](https://img.shields.io/badge/PR_%2329-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/29)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [Douglas-Strey / repolens-cli](https://github.com/Douglas-Strey/repolens-cli)
-**CLI & MCP Knowledge Extraction Engine**
-
-Engineered Model Context Protocol (MCP) client configuration specifications covering VS Code, Windsurf, Cline, and Zed.
-
-`MCP Spec` `AI Tooling` `Bilingual Specs`
-
-[![PR #42](https://img.shields.io/badge/PR_%2342-In_Review-238636?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
 
 </td>
 </tr>
