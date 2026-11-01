@@ -258,11 +258,26 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 
 ## `> neofetch`
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="195" />
-
-</div>
+```text
+                  -`                    akshith@rgmcet-systems
+                 .o+`                   ----------------------
+                `ooo/                   OS: Arch Linux x86_64 / Cloud Native
+               `+oooo:                  Host: RGMCET Computer Science & Engineering
+              `+oooooo:                 Kernel: 6.12.8-systems-x86_64
+              -+oooooo+:                Uptime: 52-Day Continuous Engineering Streak
+            `/:-:++oooo+:               Shell: zsh 5.9 (tmux + alacritty)
+           `/++++/+++++++:              Terminal: Alacritty / Neovim / Claude Code
+          `/++++++++++++++:             Languages: TypeScript · Python · C++ · SQL · Rust
+         `/+++ooooooooooooo/`           Frameworks: Next.js 15 · Prisma · FastAPI · TailwindCSS
+        ./ooosssso++osssssso+`          Databases: PostgreSQL (Neon Serverless) · Redis · SQLite
+       .oossssso-````/ossssss+`         Architectures: Finite-State Machines · Bayesian Regret Gates
+      -osssssso.      :ssssssso.        Open Source: browser-use (120k ⭐) · anythingmcp (765 ⭐)
+     :osssssss/        osssso+++.       Audit & QA: 400 Unit Tests · Append-Only SHA-256 Trails
+    /ossssssss/        +ssssooo/-       Total Commits: 3,521+ Verified Contributions
+  `/ossssso+/:-        -:/+osssso+-     Achievements: Pull Shark Silver (18 PRs) · Galaxy Brain
+ `+sso+:-`                 `.-/+oso:    Production: Sri Guru Driving Academy (Live 4-Portal SaaS)
+`++:.                           `-/+/   Status: "I don't collect badges. I ship systems."
+```
 
 ---
 
