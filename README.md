@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="center" width="180px"><h3>52 Days</h3><sub>Active Engineering Streak</sub></td>
+    <td align="center" width="180px"><h3>51 Days</h3><sub>Active Engineering Streak</sub></td>
     <td align="center" width="180px"><h3>3,500+</h3><sub>Verified Contributions</sub></td>
     <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic FSM Runtime</sub></td>
     <td align="center" width="180px"><h3>Live in Prod</h3><sub>4-Portal SaaS Platform</sub></td>
@@ -243,14 +243,12 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 
 <br><br>
 
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" alt="Pull Shark" title="Pull Shark (18 Merged PRs)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="60" alt="Galaxy Brain" title="Galaxy Brain" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" alt="YOLO" title="YOLO" /></a>
+<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="65" alt="Pull Shark" title="Pull Shark (18 Merged PRs)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="65" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="65" alt="YOLO" title="YOLO" /></a>
 
 <br>
-<sub><b>GitHub Achievements:</b> Pull Shark (18 Merged PRs) · Pair Extraordinaire · Galaxy Brain · Quickdraw · YOLO</sub>
+<sub><b>GitHub Achievements:</b> Pull Shark (Silver · 18 Merged PRs) · Quickdraw · YOLO</sub>
 
 </div>
 
@@ -263,7 +261,7 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 ```text
 ┌── [ sysinfo@akshith-workstation ] ──────────────────────────────────────────┐
 │  Host: RGMCET Computer Science & Engineering (Final-Year B.Tech)            │
-│  Uptime: 52-Day Continuous Engineering Streak                               │
+│  Uptime: 51-Day Continuous Engineering Streak                               │
 │  Specialization: Deterministic Agent Runtimes & Execution Governance        │
 │  Core Paradigms: Finite-State Machines · Bayesian Regret Gates · Audit Logs │
 │  Production: Sri Guru Driving Academy (Live 4-Portal SaaS Platform)         │
@@ -272,7 +270,7 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 │  Languages: TypeScript · Python · C++ · SQL · Rust                          │
 │  Frameworks: Next.js 15 · Prisma ORM · Neon PostgreSQL · TailwindCSS       │
 │  Verified Commits: 3,500+ GitHub Contributions                              │
-│  GitHub Badges: Pull Shark Silver (18 PRs) · Galaxy Brain · Quickdraw       │
+│  GitHub Badges: Pull Shark (Silver) · Quickdraw · YOLO (3 Official Badges)  │
 │  Philosophy: "I don't collect badges. I ship systems."                      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
