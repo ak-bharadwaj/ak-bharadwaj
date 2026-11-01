@@ -279,6 +279,16 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 `++:.                           `-/+/   Status: "I don't collect badges. I ship systems."
 ```
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="180" />
+
+</div>
+
 ---
 
 <div align="center">
