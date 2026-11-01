@@ -180,14 +180,14 @@ Diagnosed and resolved MCP protocol serialization edge cases (#6278). Unpacked J
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
-**Universal MCP Gateway for AI Agents** `Gateway Adapter`
+### 🔍 [Douglas-Strey / repolens-cli](https://github.com/Douglas-Strey/repolens-cli)
+**Codebase Analysis & Intelligence CLI** `Developer Tooling`
 
-Authored the **PlentyONE / plentymarkets e-commerce ERP adapter** providing 8 financial, order, and catalog tools with robust JSON Schema validation and mock test coverage.
+Contributed comprehensive MCP server setup architecture and configuration integration for VS Code, Windsurf, Cline, and Zed (#34).
 
-`TypeScript` `Model Context Protocol` `REST APIs`
+`TypeScript` `CLI` `Model Context Protocol`
 
-[![PR #1368](https://img.shields.io/badge/PR_%231368-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1368) [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions)](https://github.com/HelpCode-ai/anythingmcp/pull/1368)
+[![PR #42](https://img.shields.io/badge/PR_%2342-In_Review-238636?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42) [![Status](https://img.shields.io/badge/Status-Mergeable-brightgreen?style=flat-square&logo=git)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
 
 </td>
 </tr>
