@@ -256,23 +256,19 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 
 ---
 
-## `> sysinfo --summary`
+## `> systemctl status runtimes`
 
 ```text
-┌── [ sysinfo@akshith-workstation ] ──────────────────────────────────────────┐
-│  Host: RGMCET Computer Science & Engineering (Final-Year B.Tech)            │
-│  Status: Building & Deploying Production Multi-Agent Systems                │
-│  Specialization: Deterministic Agent Runtimes & Execution Governance        │
-│  Core Paradigms: Finite-State Machines · Bayesian Regret Gates · Audit Logs │
-│  Production: Sri Guru Driving Academy (Live 4-Portal SaaS Platform)         │
-│  Flagship Engine: S-Class EOS (10 FSM Profiles · 400 Automated Unit Tests)  │
-│  Research: AMIS-RU Multi-Hazard Disaster Response (IEEE Paper in Prep)      │
-│  Languages: TypeScript · Python · C++ · SQL · Rust                          │
-│  Frameworks: Next.js 15 · Prisma ORM · Neon PostgreSQL · TailwindCSS       │
-│  Live Telemetry: Real-Time GitHub Streak & Activity Indexed Below          │
-│  GitHub Badges: Pull Shark (Silver) · Quickdraw · YOLO (3 Official Badges)  │
-│  Philosophy: "I don't collect badges. I ship systems."                      │
-└─────────────────────────────────────────────────────────────────────────────┘
+$ systemctl status akshith-runtimes.service
+● akshith-runtimes.service - Autonomous Agents & Production Control Planes
+     Loaded: active (running) · RGMCET Systems Engineering
+     Health: 100% operational · zero unverified claims
+
+     Runtimes:
+     ├─ sriguru-saas.service      🟢 active (running)    4-portal live business SaaS · Neon PostgreSQL
+     ├─ sclass-eos-fsm.service    ⚡ active (passed)     10 deterministic FSM profiles · 400 unit tests
+     ├─ sentinel-amis-ru.service  🛡️ active (verified)   Bayesian regret gate · IEEE paper in prep
+     └─ upstream-engine.service   🚀 active (in-review)  browser-use PR #6279 · 130 CI checks passing
 ```
 
 <br>
