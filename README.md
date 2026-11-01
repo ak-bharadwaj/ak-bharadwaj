@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center" width="180px"><h3>51 Days</h3><sub>Active Engineering Streak</sub></td>
-    <td align="center" width="180px"><h3>3,500+</h3><sub>Verified Contributions</sub></td>
+    <td align="center" width="180px"><h3>1,700+</h3><sub>Total Contributions</sub></td>
     <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic FSM Runtime</sub></td>
     <td align="center" width="180px"><h3>Live in Prod</h3><sub>4-Portal SaaS Platform</sub></td>
   </tr>
@@ -269,7 +269,7 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 │  Research: AMIS-RU Multi-Hazard Disaster Response (IEEE Paper in Prep)      │
 │  Languages: TypeScript · Python · C++ · SQL · Rust                          │
 │  Frameworks: Next.js 15 · Prisma ORM · Neon PostgreSQL · TailwindCSS       │
-│  Verified Commits: 3,500+ GitHub Contributions                              │
+│  GitHub Activity: 1,701 Total Contributions · 3.5k Commits                 │
 │  GitHub Badges: Pull Shark (Silver) · Quickdraw · YOLO (3 Official Badges)  │
 │  Philosophy: "I don't collect badges. I ship systems."                      │
 └─────────────────────────────────────────────────────────────────────────────┘
