@@ -19,10 +19,10 @@
 
 <table>
   <tr>
-    <td align="center" width="180px"><h3>51 Days</h3><sub>Active Engineering Streak</sub></td>
-    <td align="center" width="180px"><h3>1,700+</h3><sub>Total Contributions</sub></td>
-    <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic FSM Runtime</sub></td>
-    <td align="center" width="180px"><h3>Live in Prod</h3><sub>4-Portal SaaS Platform</sub></td>
+    <td align="center" width="180px"><h3>Live in Prod</h3><sub>4-Portal Business SaaS</sub></td>
+    <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic FSM Engine</sub></td>
+    <td align="center" width="180px"><h3>IEEE Paper</h3><sub>Bayesian Regret Gate</sub></td>
+    <td align="center" width="180px"><h3>Rank 5360</h3><sub>TCS CodeVita Round 2</sub></td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 ```text
 ┌── [ sysinfo@akshith-workstation ] ──────────────────────────────────────────┐
 │  Host: RGMCET Computer Science & Engineering (Final-Year B.Tech)            │
-│  Uptime: 51-Day Continuous Engineering Streak                               │
+│  Status: Building & Deploying Production Multi-Agent Systems                │
 │  Specialization: Deterministic Agent Runtimes & Execution Governance        │
 │  Core Paradigms: Finite-State Machines · Bayesian Regret Gates · Audit Logs │
 │  Production: Sri Guru Driving Academy (Live 4-Portal SaaS Platform)         │
@@ -269,7 +269,7 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 │  Research: AMIS-RU Multi-Hazard Disaster Response (IEEE Paper in Prep)      │
 │  Languages: TypeScript · Python · C++ · SQL · Rust                          │
 │  Frameworks: Next.js 15 · Prisma ORM · Neon PostgreSQL · TailwindCSS       │
-│  GitHub Activity: 1,701 Total Contributions · 3.5k Commits                 │
+│  Live Telemetry: Real-Time GitHub Streak & Activity Indexed Below          │
 │  GitHub Badges: Pull Shark (Silver) · Quickdraw · YOLO (3 Official Badges)  │
 │  Philosophy: "I don't collect badges. I ship systems."                      │
 └─────────────────────────────────────────────────────────────────────────────┘
