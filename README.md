@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+Core+contributor+to+browser-use+%28120k%2B+%E2%AD%90%29+%26+anythingmcp;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=30&lines=%E2%96%B8+Shipped+a+live+SaaS+platform+%E2%80%94+real+business%2C+real+users;%E2%96%B8+Execution+Governance+Layer+%E2%80%94+82%25+fewer+stall+events;%E2%96%B8+Deterministic+AI+agent+runtime+%E2%80%94+400+automated+tests;%E2%96%B8+State+machines+%E2%86%92+Governance+gates+%E2%86%92+Ship+it;%E2%96%B8+2nd+%2F+600%2B+at+GDG+Hackathon+%C2%B7+LPDG+Innovation+Winner;%E2%96%B8+TCS+CodeVita+Global+Rank+5360+%C2%B7+Round+2+qualifier)](https://github.com/ak-bharadwaj)
 
 <br>
 
@@ -19,9 +19,9 @@
 
 <table>
   <tr>
-    <td align="center" width="180px"><h3>120,000+ ⭐</h3><sub>OSS Stars Impacted</sub></td>
-    <td align="center" width="180px"><h3>3,500+</h3><sub>Contributions & Units</sub></td>
-    <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic Runtime</sub></td>
+    <td align="center" width="180px"><h3>52 Days</h3><sub>Active Engineering Streak</sub></td>
+    <td align="center" width="180px"><h3>3,500+</h3><sub>Verified Contributions</sub></td>
+    <td align="center" width="180px"><h3>400 Tests</h3><sub>Deterministic FSM Runtime</sub></td>
     <td align="center" width="180px"><h3>Live in Prod</h3><sub>4-Portal SaaS Platform</sub></td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 
 Final-year Computer Science undergrad at **RGMCET** (CGPA **8.2** · SSC **10.0 GPA**) specializing in **systems engineering, deterministic agent runtimes, and execution governance**.
 
-I've deployed a **live SaaS platform** powering a real driving school business, authored an **Execution Governance Layer** for multi-hazard disaster response *(IEEE paper in preparation)*, architected a **deterministic state-machine runtime** controlling autonomous coding agents with **400 automated tests**, and contributed fixes to **120k+ ⭐ tier-1 open-source systems**.
+I've deployed a **live SaaS platform** powering a real driving school business, authored an **Execution Governance Layer** for multi-hazard disaster response *(IEEE paper in preparation)*, and architected a **deterministic state-machine runtime** controlling autonomous coding agents backed by **400 automated unit tests**.
 
 I think in **state machines**, **governance gates**, and **append-only audit trails** — systems designed for predictability under failure.
 
@@ -54,8 +54,8 @@ I think in **state machines**, **governance gates**, and **append-only audit tra
 | :--- | :--- | :--- |
 | **Distributed / Systems** | [**sentinel-AMIS_RU**](https://github.com/ak-bharadwaj/sentinel-AMIS_RU) | Regret-based Bayesian governance gate, append-only SHA-256 audit log, 82–86% fewer responder stalls. |
 | **Agent Runtimes / AI** | [**S-class EOS**](https://github.com/ak-bharadwaj/S-class) | 10-profile finite-state machine, MCP protocol integration, AST scope-creep auditor, 400 unit tests. |
-| **Open-Source Production** | [**browser-use / PR #6279**](https://github.com/browser-use/browser-use/pull/6279) | Fixed JSON Schema type-union unpacking & explicit null serialization across MCP actions (120k ⭐). |
 | **Full-Stack / Production** | [**Sri Guru Driving Academy**](https://sriguru-driving-academy.vercel.app/) | Live SaaS with 4 role-based portals, Prisma ORM, Neon serverless PostgreSQL, RTO mock engine. |
+| **Open-Source (Active PR)** | [**browser-use / PR #6279**](https://github.com/browser-use/browser-use/pull/6279) | Upstream patch for MCP JSON Schema type unions & explicit null serialization (130 passing CI checks · in review). |
 
 ---
 
@@ -160,16 +160,18 @@ Engineered the official centralized tech-fest portal handling **400+ live studen
 
 ---
 
-## `> cat /work/open-source`
+## `> cat /work/open-source-in-review`
+
+<sub>Active Upstream Pull Requests · Currently in Maintainer Review & CI Verification</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 [browser-use / browser-use](https://github.com/browser-use/browser-use)
-**Autonomous Web Agents for Claude & GPT-4** `120,000+ ⭐`
+**Autonomous Web Agents for Claude & GPT-4** `Upstream Engine`
 
-Diagnosed and resolved critical MCP protocol serialization bug (#6278). Unpacked JSON Schema type arrays into Python 3.10+ unions (`str | None`) and ensured explicit null values are preserved during tool dispatch.
+Diagnosed and resolved MCP protocol serialization edge cases (#6278). Unpacked JSON Schema type arrays into Python 3.10+ unions (`str | None`) and ensured explicit null values are preserved across nested models during tool dispatch.
 
 `Python` `Model Context Protocol` `Pydantic v2` `Pyright`
 
@@ -179,7 +181,7 @@ Diagnosed and resolved critical MCP protocol serialization bug (#6278). Unpacked
 <td width="50%" valign="top">
 
 ### 🔌 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
-**Universal MCP Gateway for AI Agents** `765 ⭐`
+**Universal MCP Gateway for AI Agents** `Gateway Adapter`
 
 Authored the **PlentyONE / plentymarkets e-commerce ERP adapter** providing 8 financial, order, and catalog tools with robust JSON Schema validation and mock test coverage.
 
@@ -193,7 +195,7 @@ Authored the **PlentyONE / plentymarkets e-commerce ERP adapter** providing 8 fi
 <td width="50%" valign="top">
 
 ### 💳 [HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
-**Universal MCP Gateway for AI Agents** `765 ⭐`
+**Universal MCP Gateway for AI Agents** `Gateway Adapter`
 
 Authored the **SumUp Payments MCP Adapter** exposing 6 secure checkout, transaction, and merchant payout management tools for autonomous agents.
 
@@ -256,27 +258,23 @@ Resolved CLI path resolution defect in workflow skill parser and contributed ful
 
 ---
 
-## `> neofetch`
+## `> sysinfo --summary`
 
 ```text
-                  -`                    akshith@rgmcet-systems
-                 .o+`                   ----------------------
-                `ooo/                   OS: Arch Linux x86_64 / Cloud Native
-               `+oooo:                  Host: RGMCET Computer Science & Engineering
-              `+oooooo:                 Kernel: 6.12.8-systems-x86_64
-              -+oooooo+:                Uptime: 52-Day Continuous Engineering Streak
-            `/:-:++oooo+:               Shell: zsh 5.9 (tmux + alacritty)
-           `/++++/+++++++:              Terminal: Alacritty / Neovim / Claude Code
-          `/++++++++++++++:             Languages: TypeScript · Python · C++ · SQL · Rust
-         `/+++ooooooooooooo/`           Frameworks: Next.js 15 · Prisma · FastAPI · TailwindCSS
-        ./ooosssso++osssssso+`          Databases: PostgreSQL (Neon Serverless) · Redis · SQLite
-       .oossssso-````/ossssss+`         Architectures: Finite-State Machines · Bayesian Regret Gates
-      -osssssso.      :ssssssso.        Open Source: browser-use (120k ⭐) · anythingmcp (765 ⭐)
-     :osssssss/        osssso+++.       Audit & QA: 400 Unit Tests · Append-Only SHA-256 Trails
-    /ossssssss/        +ssssooo/-       Total Commits: 3,521+ Verified Contributions
-  `/ossssso+/:-        -:/+osssso+-     Achievements: Pull Shark Silver (18 PRs) · Galaxy Brain
- `+sso+:-`                 `.-/+oso:    Production: Sri Guru Driving Academy (Live 4-Portal SaaS)
-`++:.                           `-/+/   Status: "I don't collect badges. I ship systems."
+┌── [ sysinfo@akshith-workstation ] ──────────────────────────────────────────┐
+│  Host: RGMCET Computer Science & Engineering (Final-Year B.Tech)            │
+│  Uptime: 52-Day Continuous Engineering Streak                               │
+│  Specialization: Deterministic Agent Runtimes & Execution Governance        │
+│  Core Paradigms: Finite-State Machines · Bayesian Regret Gates · Audit Logs │
+│  Production: Sri Guru Driving Academy (Live 4-Portal SaaS Platform)         │
+│  Flagship Engine: S-Class EOS (10 FSM Profiles · 400 Automated Unit Tests)  │
+│  Research: AMIS-RU Multi-Hazard Disaster Response (IEEE Paper in Prep)      │
+│  Languages: TypeScript · Python · C++ · SQL · Rust                          │
+│  Frameworks: Next.js 15 · Prisma ORM · Neon PostgreSQL · TailwindCSS       │
+│  Verified Commits: 3,500+ GitHub Contributions                              │
+│  GitHub Badges: Pull Shark Silver (18 PRs) · Galaxy Brain · Quickdraw       │
+│  Philosophy: "I don't collect badges. I ship systems."                      │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
