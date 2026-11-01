@@ -275,9 +275,9 @@ $ systemctl status akshith-runtimes.service
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261101_v3" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261101_v5" height="180" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261101_v3" height="180" />
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261101_v5" height="180" />
 
 </div>
 
