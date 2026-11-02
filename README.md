@@ -209,11 +209,11 @@ Authored the **SumUp Payments MCP Adapter** exposing 6 secure checkout, transact
 ### 🛠️ [pachara-n / skills-lint](https://github.com/pachara-n/skills-lint)
 **Agentic Workflow & Skills Linter** `Active Tooling`
 
-Resolved CLI path resolution defect in workflow skill parser and contributed full end-to-end vitest integration coverage.
+Contributed `--no-color` CLI flag and full [no-color.org](https://no-color.org) specification conformance with end-to-end integration test coverage (#24).
 
 `TypeScript` `Node.js` `Vitest` `CLI`
 
-[![PR #29](https://img.shields.io/badge/PR_%2329-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/29)
+[![PR #31](https://img.shields.io/badge/PR_%2331-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/31)
 
 </td>
 </tr>
