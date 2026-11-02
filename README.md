@@ -160,9 +160,9 @@ Engineered the official centralized tech-fest portal handling **400+ live studen
 
 ---
 
-## `> cat /work/open-source-in-review`
+## `> cat /work/open-source`
 
-<sub>Active Upstream Pull Requests · Currently in Maintainer Review & CI Verification</sub>
+<sub>Upstream Contributions across AI Agent Frameworks, MCP Ecosystem & Developer Tooling</sub>
 
 <table>
 <tr>
@@ -175,7 +175,7 @@ Diagnosed and resolved MCP protocol serialization edge cases (#6278). Unpacked J
 
 `Python` `Model Context Protocol` `Pydantic v2` `Pyright`
 
-[![PR #6279](https://img.shields.io/badge/PR_%236279-In_Review-238636?style=flat-square&logo=github)](https://github.com/browser-use/browser-use/pull/6279) [![CI](https://img.shields.io/badge/CI-Passing_(130_checks)-brightgreen?style=flat-square&logo=githubactions)](https://github.com/browser-use/browser-use/pull/6279) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/browser-use/browser-use/pull/6279)
+[![PR #6279](https://img.shields.io/badge/PR_%236279-Maintainer_Verified-238636?style=flat-square&logo=github)](https://github.com/browser-use/browser-use/pull/6279) [![CI](https://img.shields.io/badge/CI-Passing_(130_checks)-brightgreen?style=flat-square&logo=githubactions)](https://github.com/browser-use/browser-use/pull/6279) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/browser-use/browser-use/pull/6279)
 
 </td>
 <td width="50%" valign="top">
@@ -187,7 +187,7 @@ Contributed comprehensive MCP server setup architecture and configuration integr
 
 `TypeScript` `CLI` `Model Context Protocol`
 
-[![PR #42](https://img.shields.io/badge/PR_%2342-In_Review-238636?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42) [![Status](https://img.shields.io/badge/Status-Mergeable-brightgreen?style=flat-square&logo=git)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
+[![PR #42](https://img.shields.io/badge/PR_%2342-Merged-8957e5?style=flat-square&logo=github)](https://github.com/Douglas-Strey/repolens-cli/pull/42) [![Status](https://img.shields.io/badge/Status-Merged-8957e5?style=flat-square&logo=git)](https://github.com/Douglas-Strey/repolens-cli/pull/42)
 
 </td>
 </tr>
@@ -201,7 +201,7 @@ Authored the **SumUp Payments MCP Adapter** exposing 6 secure checkout, transact
 
 `TypeScript` `FinTech API` `OAuth / Bearer`
 
-[![PR #1367](https://img.shields.io/badge/PR_%231367-In_Review-238636?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![CLA](https://img.shields.io/badge/CLA-Signed-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
+[![PR #1367](https://img.shields.io/badge/PR_%231367-Merged-8957e5?style=flat-square&logo=github)](https://github.com/HelpCode-ai/anythingmcp/pull/1367) [![Status](https://img.shields.io/badge/Status-Merged-8957e5?style=flat-square&logo=git)](https://github.com/HelpCode-ai/anythingmcp/pull/1367)
 
 </td>
 <td width="50%" valign="top">
@@ -213,7 +213,7 @@ Contributed `--no-color` CLI flag and full [no-color.org](https://no-color.org) 
 
 `TypeScript` `Node.js` `Vitest` `CLI`
 
-[![PR #31](https://img.shields.io/badge/PR_%2331-In_Review-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/31)
+[![PR #31](https://img.shields.io/badge/PR_%2331-Assigned_%26_Passing-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/31)
 
 </td>
 </tr>
@@ -243,12 +243,12 @@ Contributed `--no-color` CLI flag and full [no-color.org](https://no-color.org) 
 
 <br><br>
 
-<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="65" alt="Pull Shark" title="Pull Shark (18 Merged PRs)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="65" alt="Pull Shark" title="Pull Shark (20 Merged PRs)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="65" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ak-bharadwaj?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="65" alt="YOLO" title="YOLO" /></a>
 
 <br>
-<sub><b>GitHub Achievements:</b> Pull Shark (Silver · 18 Merged PRs) · Quickdraw · YOLO</sub>
+<sub><b>GitHub Achievements:</b> Pull Shark (Silver · 20 Merged PRs) · Quickdraw · YOLO</sub>
 
 </div>
 
@@ -268,16 +268,18 @@ $ systemctl status akshith-runtimes.service
      ├─ sriguru-saas.service      🟢 active (running)    4-portal live business SaaS · Neon PostgreSQL
      ├─ sclass-eos-fsm.service    ⚡ active (passed)     10 deterministic FSM profiles · 400 unit tests
      ├─ sentinel-amis-ru.service  🛡️ active (verified)   Bayesian regret gate · IEEE paper in prep
-     └─ upstream-engine.service   🚀 active (in-review)  browser-use PR #6279 · 130 CI checks passing
+     ├─ repolens-mcp.service      🟣 active (merged)     repolens-cli PR #42 · Multi-client MCP setup
+     ├─ sumup-adapter.service     🟣 active (merged)     anythingmcp PR #1367 · FinTech MCP Gateway
+     └─ upstream-engine.service   🚀 active (verified)   browser-use PR #6279 · 130 CI checks passing
 ```
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261101_v5" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261102_v1" height="180" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261101_v5" height="180" />
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261102_v1" height="180" />
 
 </div>
 
