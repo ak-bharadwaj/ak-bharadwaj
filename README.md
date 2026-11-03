@@ -213,7 +213,7 @@ Contributed `--no-color` CLI flag and full [no-color.org](https://no-color.org) 
 
 `TypeScript` `Node.js` `Vitest` `CLI`
 
-[![PR #31](https://img.shields.io/badge/PR_%2331-Assigned_%26_Passing-238636?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/31)
+[![PR #31](https://img.shields.io/badge/PR_%2331-Merged-8957e5?style=flat-square&logo=github)](https://github.com/pachara-n/skills-lint/pull/31) [![Status](https://img.shields.io/badge/Status-Merged-8957e5?style=flat-square&logo=git)](https://github.com/pachara-n/skills-lint/pull/31)
 
 </td>
 </tr>
@@ -270,6 +270,8 @@ $ systemctl status akshith-runtimes.service
      ├─ sentinel-amis-ru.service  🛡️ active (verified)   Bayesian regret gate · IEEE paper in prep
      ├─ repolens-mcp.service      🟣 active (merged)     repolens-cli PR #42 · Multi-client MCP setup
      ├─ sumup-adapter.service     🟣 active (merged)     anythingmcp PR #1367 · FinTech MCP Gateway
+     ├─ skills-lint-cli.service   🟣 active (merged)     skills-lint PR #31 · CLI NO_COLOR support
+     ├─ pixabay-adapter.service   ⚡ active (in-review)  anythingmcp PR #1468 · Media MCP Gateway
      └─ upstream-engine.service   🚀 active (verified)   browser-use PR #6279 · 130 CI checks passing
 ```
 
@@ -277,9 +279,9 @@ $ systemctl status akshith-runtimes.service
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261102_v1" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ak-bharadwaj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_bust=20261103_v1" height="180" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261102_v1" height="180" />
+<img src="https://streak-stats.demolab.com?user=ak-bharadwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&cache_bust=20261103_v1" height="180" />
 
 </div>
 
